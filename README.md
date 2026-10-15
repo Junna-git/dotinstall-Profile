@@ -1,2 +1,2 @@
 # dotinstall-Profile
-練習
+勉強用
